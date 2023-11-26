@@ -35,5 +35,6 @@ Advanced Programmer in Front-end + Back-end | Cybersecurity Enthusiast and a Con
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Contact Me
-- 🔗 **Discord:** [8eu_](https://discord.com/users/647724359758249984)
+[![Raed github stats](https://github-readme-stats.vercel.app/api?username=RaedByte)](https://github.com/RaedByte)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=RaedByte.RaedByte)](https://github.com/RaedByte)
