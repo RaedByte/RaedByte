@@ -13,3 +13,6 @@ Advanced Programmer in Front-end + Back-end | Cybersecurity Enthusiast and a Con
 - 🔐 **Cybersecurity (Learning in progress)**
 - 🌐 **Web Solutions Architecture**
 - 🎨 **User-friendly Interface Design**
+
+### Contact Me
+- 🔗 **Discord:** [8eu_](https://discord.com/users/647724359758249984)
