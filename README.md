@@ -2,7 +2,9 @@
 Raed Hisham
 </h3>
 
+<h2 align="center">
 Advanced Programmer in Front-end + Back-end | Cybersecurity Enthusiast and a Constant Learner
+</h2> 
 
 ### Personal Information:
 - 👨‍💻 **Full Name:** Raed Hisham Ahmed
