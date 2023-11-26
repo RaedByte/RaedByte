@@ -1,4 +1,6 @@
-## Raed Hisham
+<h3 align="center">
+### Raed Hisham
+</h3>
 
 Advanced Programmer in Front-end + Back-end | Cybersecurity Enthusiast and a Constant Learner
 
